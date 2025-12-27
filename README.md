@@ -1,3 +1,3 @@
 
-# Task Mananger App - FINAL MERGED VERSION
+# Task Manager App - FINAL MERGED VERSION
 
